@@ -26,7 +26,7 @@ Our goal is to provide a high-quality, hassle-free music listening experience fo
 - useState, useEffect, useContext, Memo, useSelector
 - useAuth0, useNavigate, useSearchParams, useDispatch ... 
 
-### Extra
+### Extras
 
 - Private routes
 - Cloudinary
